@@ -1,4 +1,158 @@
-[{
- "name": "National Holiday",
- "date": "1/2/2020"
-}]
+[
+    {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "date": {
+            "iso": "2020-01-01",
+            "datetime": {
+                "year": 2020,
+                "month": 1,
+                "day": 1
+            }
+        }
+    },
+    {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Ghana",
+        "date": {
+            "iso": "2020-01-07",
+            "datetime": {
+                "year": 2020,
+                "month": 1,
+                "day": 7
+            }
+        }
+    },
+    {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Ghana",
+        "date": {
+            "iso": "2020-03-06",
+            "datetime": {
+                "year": 2020,
+                "month": 3,
+                "day": 6
+            }
+        }
+    },
+    {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "date": {
+            "iso": "2020-04-10",
+            "datetime": {
+                "year": 2020,
+                "month": 4,
+                "day": 10
+            }
+        }
+    },
+    {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "date": {
+            "iso": "2020-04-13",
+            "datetime": {
+                "year": 2020,
+                "month": 4,
+                "day": 13
+            }
+        }
+    },
+    {
+        "name": "May Day",
+        "description": "May Day, or Labor Day, is a day off for workers in many countries around the world.",
+        "date": {
+            "iso": "2020-05-01",
+            "datetime": {
+                "year": 2020,
+                "month": 5,
+                "day": 1
+            }
+        }
+    },
+    {
+        "name": "Id ul Fitr",
+        "description": "Eid-al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "date": {
+            "iso": "2020-05-24",
+            "datetime": {
+                "year": 2020,
+                "month": 5,
+                "day": 24
+            }
+        }
+    },
+    {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "date": {
+            "iso": "2020-07-31",
+            "datetime": {
+                "year": 2020,
+                "month": 7,
+                "day": 31
+            }
+        }
+    },
+    {
+        "name": "Founders' Day",
+        "description": "Founders' Day is a public holiday in Ghana",
+        "date": {
+            "iso": "2020-08-04",
+            "datetime": {
+                "year": 2020,
+                "month": 8,
+                "day": 4
+            }
+        }
+    },
+    {
+        "name": "Kwame Nkrumah Memorial Day",
+        "description": "Kwame Nkrumah Memorial Day is a public holiday in Ghana",
+        "date": {
+            "iso": "2020-09-21",
+            "datetime": {
+                "year": 2020,
+                "month": 9,
+                "day": 21
+            }
+        }
+    },
+    {
+        "name": "Farmer's Day",
+        "description": "Farmer's Day is a public holiday in Ghana",
+        "date": {
+            "iso": "2020-12-04",
+            "datetime": {
+                "year": 2020,
+                "month": 12,
+                "day": 4
+            }
+        }
+    },
+    {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "date": {
+            "iso": "2020-12-25",
+            "datetime": {
+                "year": 2020,
+                "month": 12,
+                "day": 25
+            }
+        }
+    },
+    {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Ghana",
+        "date": {
+            "iso": "2020-12-26",
+            "datetime": {
+                "year": 2020,
+                "month": 12,
+                "day": 26
+            }
+        }
+    }
+]
